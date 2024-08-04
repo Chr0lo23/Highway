@@ -1,6 +1,6 @@
 {
-    "name": "TekTest",
-    "short_name": "TekTest",
+    "name": "My project",
+    "short_name": "My project",
     "start_url": "index.html",
     "display": "fullscreen",
     "background_color": "#231F20",
